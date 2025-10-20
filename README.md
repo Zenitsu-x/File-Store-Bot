@@ -13,7 +13,7 @@
 <a href="https://github.com/codeflix-bots/filestore/network/members"> <img src="https://img.shields.io/github/forks/ErrorCodez-Bots/File-Store-Bot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
 <a href="https://github.com/ErrorCodez-Bots/File-Store-Bot/blob/ErrorCodez-Bots/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/codeflix-bots/File-Store-Bot/commits/Noob-Mukesh"> <img src="https://img.shields.io/github/last-commit/ErrorCodez-Bots/File-Store-Bot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/ErrorCodez-Bots/File-Store-Bot/commits/Noob-Mukesh"> <img src="https://img.shields.io/github/last-commit/ErrorCodez-Bots/File-Store-Bot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
