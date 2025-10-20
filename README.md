@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/codeflix-bots/filestore/stargazers"><img src="https://img.shields.io/github/stars/codeflix-bots/filestore?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/codeflix-bots/filestore/network/members"> <img src="https://img.shields.io/github/forks/codeflix-bots/filestore?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/codeflix-bots/filestore/blob/yato/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://github.com/ErrorCodez-Bots/File-Store-Bot/stargazers"><img src="https://img.shields.io/github/stars/codeflix-bots/filestore?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/codeflix-bots/filestore/network/members"> <img src="https://img.shields.io/github/forks/ErrorCodez-Bots/File-Store-Bot?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/ErrorCodez-Bots/File-Store-Bot/blob/yato/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/codeflix-bots/filestore/commits/Noob-Mukesh"> <img src="https://img.shields.io/github/last-commit/codeflix-bots/filestore?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://github.com/codeflix-bots/File-Store-Bot/commits/Noob-Mukesh"> <img src="https://img.shields.io/github/last-commit/ErrorCodez-Bots/File-Store-Bot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
@@ -139,8 +139,8 @@ MESSAGES = {
 - <b> ᴠᴘs/ʟᴏᴄᴀʟ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ </b>
 </h3></summary>
 
-- Get your [Necessary Variables](https://github.com/ErrorCodez-Bots/filestore/blob/yato/config.py)
-- git clone https://github.com/ErrorCodez-Bots/filestore
+- Get your [Necessary Variables](https://github.com/ErrorCodez-Bots/File-Store-Bot/blob/yato/config.py)
+- git clone https://github.com/ErrorCodez-Bots/File-Store-Bot
 - # Install Packages
 - pip3 install -U -r requirements.txt
 - Edit config.py with variables as given below then run bot
