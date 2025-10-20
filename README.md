@@ -1,7 +1,7 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「 ғɪʟᴇ sᴛᴏʀᴇ ᴘʀᴏ - ʙʏ ʏᴀᴛᴏ 」──
+    ──「 ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ - ʙʏ ᴇʀʀᴏʀ-ᴄᴏᴅᴇᴢ 」──
 </h2>
 
 <p align="center">
@@ -23,8 +23,6 @@
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
-
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/codeflix-bots/Filestore"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 <h3 align="center">
@@ -141,8 +139,8 @@ MESSAGES = {
 - <b> ᴠᴘs/ʟᴏᴄᴀʟ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ </b>
 </h3></summary>
 
-- Get your [Necessary Variables](https://github.com/Codeflix-Bots/filestore/blob/yato/config.py)
-- git clone https://github.com/Codeflix-Bots/filestore
+- Get your [Necessary Variables](https://github.com/ErrorCodez-Bots/filestore/blob/yato/config.py)
+- git clone https://github.com/ErrorCodez-Bots/filestore
 - # Install Packages
 - pip3 install -U -r requirements.txt
 - Edit config.py with variables as given below then run bot
