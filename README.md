@@ -171,7 +171,7 @@ MESSAGES = {
     ─「 ᴄʀᴇᴅɪᴛs 」─
 </h3>
 
-- <b>[ʏᴀᴛᴏ](https://github.com/Codeflix-Bots)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/proyato) </b>
+- <b>[ʏᴀᴛᴏ](https://github.com/Codeflix-Bots)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/Zenitsu-x) </b>
 - <b>[ᴠᴏᴀᴛ](https://github.com/Codeflix-Bots)  ➻  [ʙᴀsᴇ ʀᴇᴘᴏ](https://github.com/ArihantSharma/FileStoreBot) </b>
 
 <h3 align="center">
