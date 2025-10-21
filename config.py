@@ -45,7 +45,7 @@ MESSAGES = {
     "ABOUT": "<b>›› Fᴏʀ Mᴏʀᴇ: @MakimaDude \n <blockquote expandable>›› Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ: <a href='https://t.me/ErrorCodez_Bots'>Cʟɪᴄᴋ ʜᴇʀᴇ</a> \n›› Oᴡɴᴇʀ: @Zenitsu_Xy\n›› Lᴀɴɢᴜᴀɢᴇ: <a href='https://docs.python.org/3/'>Pʏᴛʜᴏɴ 3</a> \n›› Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ ᴠ2</a> \n›› Dᴀᴛᴀʙᴀsᴇ: <a href='https://www.mongodb.com/docs/'>Mᴏɴɢᴏ ᴅʙ</a> \n›› Dᴇᴠᴇʟᴏᴘᴇʀ: @SupexSonic</b></blockquote>",
     "REPLY": "<b>For More Join - @MakimaDude</b>",
     "SHORT_MSG": "<b>📊 ʜᴇʏ {first}, \n\n‼️ Gᴇᴛ Aʟʟ Fɪʟᴇꜱ Iɴ A Sɪɴɢʟᴇ Lɪɴᴋ ‼️\n\n ⌯ Yᴏᴜʀ Lɪɴᴋ Iꜱ Rᴇᴀᴅʏ, Kɪɴᴅʟʏ Cʟɪᴄᴋ Oɴ Oᴘᴇɴ Lɪɴᴋ Bᴜᴛᴛᴏɴ..</b>",
-    "START_PHOTO": "https://graph.org/file/510affa3d4b6c911c12e3.jpg",
+    "START_PHOTO": "https://telegra.ph/file/fee99f091e6352fb81df0-f76172e5916d37d5c6.jpg",
     "FSUB_PHOTO": "https://telegra.ph/file/7a16ef7abae23bd238c82-b8fbdcb05422d71974.jpg",
     "SHORT_PIC": "https://telegra.ph/file/7a16ef7abae23bd238c82-b8fbdcb05422d71974.jpg",
     "SHORT": "https://telegra.ph/file/8aaf4df8c138c6685dcee-05d3b183d4978ec347.jpg"
