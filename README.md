@@ -139,7 +139,7 @@ MESSAGES = {
 - <b> ᴠᴘs/ʟᴏᴄᴀʟ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ </b>
 </h3></summary>
 
-- Get your [Necessary Variables](https://github.com/ErrorCodez-Bots/File-Store-Bot/blob/yato/config.py)
+- Get your [Necessary Variables](https://github.com/ErrorCodez-Bots/File-Store-Bot/blob/Zenitsu-x/config.py)
 - git clone https://github.com/ErrorCodez-Bots/File-Store-Bot
 - # Install Packages
 - pip3 install -U -r requirements.txt
