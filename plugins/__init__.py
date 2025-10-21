@@ -1,4 +1,4 @@
-#(©)Codeflix Bots (ProYato)
+#(©)ErrorCodez Bots (Zenitsu)
 
 from aiohttp import web
 from .route import routes
