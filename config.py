@@ -22,7 +22,7 @@ WORKERS = 5
 DB_URI = "mongodb+srv://nshubh345:1FmseyW0TKaWNMNo@cluster0.pgewb.mongodb.net/?retryWrites=true&w=majority"
 DB_NAME = "zenitsu"
 
-FSUBS = [[-1003016571084, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
+FSUBS = [[-1002172875461, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
 # Database Channel (Primary)
 DB_CHANNEL = "-1002953776171" # just put channel id dont add 
 # Multiple Database Channels (can be set via bot settings)
