@@ -171,8 +171,8 @@ MESSAGES = {
     ─「 ᴄʀᴇᴅɪᴛs 」─
 </h3>
 
-- <b>[ʏᴀᴛᴏ](https://github.com/Codeflix-Bots)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/Zenitsu-x) </b>
-- <b>[ᴠᴏᴀᴛ](https://github.com/Codeflix-Bots)  ➻  [ʙᴀsᴇ ʀᴇᴘᴏ](https://github.com/ArihantSharma/FileStoreBot) </b>
+- <b>[ᴢᴇɴɪᴛsᴜ](https://github.com/ErrorCodez-Bots)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/Zenitsu-x) </b>
+- <b>[ᴏᴡɴᴇʀ](https://github.com/ErrorCodez-Bots)  ➻  [ʙᴀsᴇ ʀᴇᴘᴏ](https://github.com/ArihantSharma/FileStoreBot) </b>
 
 <h3 align="center">
 <b>🤝 ᴄᴏɴᴛʀɪʙᴜᴛɪɴɢ
